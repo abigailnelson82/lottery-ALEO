@@ -1,3 +1,7 @@
+Hi!
+
+I'm a human.
+
 # lottery.aleo
 
 ## Run Guide
